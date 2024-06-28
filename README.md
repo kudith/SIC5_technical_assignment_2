@@ -1,1 +1,1 @@
-# SIC5_technical_assignment_2
+# SIC5 | Technical Assignment 2
